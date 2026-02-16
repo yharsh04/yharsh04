@@ -1,12 +1,12 @@
 # 💫 About Me:
 🎓 Aspiring Software Development Engineer (SDE) | Java | DSA | Problem Solving  <br><br>
 💻 Primary Language: Java  <br>
-📚 Strong in DSA | Core CS Subjects  <br><br>
+📚 Strong foundation in DSA & Core CS subjects  <br><br>
 
 🔭 I’m currently working on: DSA practice and Java backend mini-projects  <br>
 🌱 I’m currently learning: Core Java, OOPS, DBMS, Operating Systems, Computer Networks  <br>
 👯 I’m looking to collaborate on: Java-based open-source projects and real-world applications  <br>
-🤝 I’m looking for help with: Interview-level DSA and Low-Level System Design  <br>
+🤝 I’m seeking guidance on: Interview-level DSA and Low-Level System Design  <br>
 💬 Ask me about: Java, DSA patterns, LeetCode strategies  <br>
 ⚡ Fun fact: I enjoy refactoring my code until it’s clean and optimal 🚀  <br><br>
 
