@@ -1,5 +1,20 @@
 # 💫 About Me:
-🎓 Software Developer (SDE) Aspirant | Java | DSA | Problem Solving  <br><br>🔭 I’m currently working on: DSA practice and Java backend mini-projects  <br>👯 I’m looking to collaborate on: Open-source Java projects and real-world applications  <br>🤝 🤝 I’m looking for help with: Interview-level DSA and low-level system design concepts <br>🌱 I’m currently learning: Core Java, DBMS, OOPs, Computer Networks  <br>💬 Ask me about: Java, LeetCode, DSA patterns  <br>⚡ Fun fact: I refactor my code until it’s clean and optimal 🚀<br>
+🎓 Aspiring Software Development Engineer (SDE) | Java | DSA | Problem Solving  <br><br>
+💻 Primary Language: Java  <br>
+📚 Strong in DSA | Core CS Subjects  <br><br>
+
+🔭 I’m currently working on: DSA practice and Java backend mini-projects  <br>
+🌱 I’m currently learning: Core Java, OOPS, DBMS, Operating Systems, Computer Networks  <br>
+👯 I’m looking to collaborate on: Java-based open-source projects and real-world applications  <br>
+🤝 I’m looking for help with: Interview-level DSA and Low-Level System Design  <br>
+💬 Ask me about: Java, DSA patterns, LeetCode strategies  <br>
+⚡ Fun fact: I enjoy refactoring my code until it’s clean and optimal 🚀  <br><br>
+
+📍 Location: Jalandhar, India  <br>
+🎯 Goal: Secure an SDE role in product-based or service-based companies
+
+
+
 
 
 ## 🌐 Socials:
